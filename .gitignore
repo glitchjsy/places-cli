@@ -1,0 +1,6 @@
+node_modules/
+*.json
+*.csv
+!config.json
+!package.json
+!package-lock.json
