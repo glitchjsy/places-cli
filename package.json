@@ -1,9 +1,9 @@
 {
     "name": "places-cli",
     "version": "1.0.0",
-    "description": "",
+    "description": "A command line tool for scraping data from places.je",
     "author": "Luke <luke@glitch.je>",
-    "license": "ISC",
+    "license": "MIT",
     "main": "index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
