@@ -1,4 +1,5 @@
 # places-cli
+[![Hits](https://hitcount.dev/p/glitchjsy/places-cli.svg)](https://hitcount.dev/p/glitchjsy/places-cli)  
 A command line tool for scraping data from [Places.je](https://places.je).
 
 ## Commands
